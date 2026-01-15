@@ -185,3 +185,5 @@ print(pt.decode())
 ```
 ***Ta tìm được FLAG***
 ![alt text](image.png)
+
+***FLAG:*** W1{L1ttl3's_ch4ll3ng3_1s_v3ry_e4sy_R1ght???}
